@@ -1,18 +1,13 @@
-# React + Vite
+## Proyecto desarrollado en colaboración
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este repositorio es un fork del proyecto original desarrollado en equipo.
+Mi participación incluyó:
 
-Currently, two official plugins are available:
-
-* [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses Babel for Fast Refresh
-* [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses SWC for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-
----
-
+- Desarrollo frontend con React y Electron
+- Implementación backend con Node.js y Express
+- Diseño y modelado en PostgreSQL
+- Desarrollo de APIs REST
+  
 ## Contexto del proyecto
 
 En esta fase construimos la **app de escritorio** para "Los Yajalones" con React, Vite, Tailwind CSS y Electron, consumiendo la API REST en Java/Spring Boot. Las funcionalidades incluyen venta de boletos, gestión de paquetería, registro de choferes/unidades y ajustes del sistema.
